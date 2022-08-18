@@ -1,4 +1,4 @@
-package one.digitalinnovation.cloudparking.controller;
+package one.digitalinnovation.cloudparking.controller.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 

@@ -1,5 +1,6 @@
 package one.digitalinnovation.cloudparking.controller;
 
+import one.digitalinnovation.cloudparking.controller.dto.ParkingDTO;
 import one.digitalinnovation.cloudparking.controller.mapper.ParkingMapper;
 import one.digitalinnovation.cloudparking.model.Parking;
 import one.digitalinnovation.cloudparking.service.ParkingService;

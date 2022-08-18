@@ -1,6 +1,6 @@
 package one.digitalinnovation.cloudparking.controller.mapper;
 
-import one.digitalinnovation.cloudparking.controller.ParkingDTO;
+import one.digitalinnovation.cloudparking.controller.dto.ParkingDTO;
 import one.digitalinnovation.cloudparking.model.Parking;
 import org.modelmapper.ModelMapper;
 import org.springframework.stereotype.Component;
